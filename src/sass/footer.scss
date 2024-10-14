@@ -1,0 +1,10 @@
+@use "sass:math";
+@import "variables";
+
+footer {
+    background-color: $secondary-color;
+    padding: math.div($base-padding, 2);
+    text-align: center;
+    color: white;
+  }
+  

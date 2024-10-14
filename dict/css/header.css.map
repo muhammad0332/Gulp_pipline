@@ -1,0 +1,1 @@
+{"version":3,"sources":["header.scss"],"names":[],"mappings":"AACA,OACI,iBAAA,QACA,QAAA,KACA,UACE,YAAA,MAAA,CAAA,WACA,MAAA","file":"header.css","sourcesContent":["@import \"variables\";\r\nheader {\r\n    background-color: $primary-color;\r\n    padding: $base-padding;\r\n    h1 {\r\n      font-family: $font-stack;\r\n      color: white;\r\n    }\r\n  }\r\n  "]}

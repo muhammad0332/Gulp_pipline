@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer.scss"],"names":[],"mappings":"AAGA,OACI,iBAAA,QACA,QAAA,IACA,WAAA,OACA,MAAA","file":"footer.css","sourcesContent":["@use \"sass:math\";\r\n@import \"variables\";\r\n\r\nfooter {\r\n    background-color: $secondary-color;\r\n    padding: math.div($base-padding, 2);\r\n    text-align: center;\r\n    color: white;\r\n  }\r\n  "]}
